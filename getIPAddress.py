@@ -7,6 +7,7 @@ while True:
     print('(1) Use own IP address')
     print('(2) Manually enter IP address')
     print('(3) Exit')
+    print('test')
     choice = input('Enter number of choice: ')
 
     if choice=='1':
