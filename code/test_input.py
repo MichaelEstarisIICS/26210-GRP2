@@ -13,5 +13,5 @@ def test_get_ip():
         assert key != None
         assert val != None
 
-    #test
+    #testing
 
