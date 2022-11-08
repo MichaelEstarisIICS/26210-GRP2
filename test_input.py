@@ -13,7 +13,3 @@ def test_get_ip():
         assert key != None
         assert val != None
 
-#def test_get_info():
-
-
-#def test_get_choice():
