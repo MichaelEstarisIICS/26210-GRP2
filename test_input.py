@@ -6,16 +6,6 @@ def get_ip():
     ip = get('https://api.ipify.org').text
     return ip
 
-#get IP Address Info
-def get_ip_info(ip):
-    loc = get('https://ipapi.co/'+ip+'/json/')
-    return loc
-
-#get Choice
-def get_choice():
-    choice = input('Enter number of choice: ') 
-    return choice
-
 def test_get_ip(): 
     ip = get_ip()
     loc = get('https://ipapi.co/'+ip+'/json/')
