@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github\\workflows",
     "\\code"
   ],
+  "SelectedNode": "\\code\\test_input.py",
   "PreviewInSolutionExplorer": false
 }
