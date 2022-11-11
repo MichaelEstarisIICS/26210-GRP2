@@ -1,4 +1,4 @@
 {
   "TestFramework": "Pytest",
-  "Interpreter": "Global|PythonCore|3.9"
+  "Interpreter": "C:\\Users\\user\\myenv\\Scripts\\python.exe"
 }
